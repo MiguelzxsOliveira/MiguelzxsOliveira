@@ -1,8 +1,23 @@
-># Miguel Oliveira | Tech Lead & Software Engineer - Cafeh Contabilidade
+# Miguel Oliveira | Tech Lead & Software Engineer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/Anime-GIFs/main/ReZero/Ram.gif" width="200" alt="Ram de Re:Zero" />
+  <img src="https://github.com/user-attachments/assets/4a08532c-c13c-4097-a4af-4cab375f57dc" width="180" style="border-radius: 50%; object-fit: cover;" alt="Ram" />
 </p>
+
+<p align="center">
+  <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MiguelzxsOliveira">
+    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
+  </a>
+</p>
+
+---
 
 ## Estatísticas do GitHub
 
@@ -21,22 +36,9 @@
       </td>
     </tr>
   </table>
-
-
-
-
-<p align="center">
-  <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MiguelzxsOliveira">
-    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
-  </a>
-</p>
+---
 
 ## Tecnologias & Ferramentas
 
@@ -53,18 +55,18 @@
 
 ## Sobre Mim
 
-> "O futuro é algo que você mesmo constrói." Inspirado por mundos fantásticos e grandes desafios.
+> "Se você não tem memórias do seu passado, basta acumular novas memórias a partir de agora." — Re:Zero
 
 Sou um desenvolvedor apaixonado por transformar ideias complexas em código limpo, eficiente e com excelente experiência de usuário. Tenho forte afinidade com o desenvolvimento de sistemas robustos, arquitetura de software e soluções que facilitam a automação e processos do dia a dia.
 
-* Atualmente focado em arquitetura de software e desenvolvimento de aplicações de alto impacto.
-* Especialista em criar interfaces fluidas, dinâmicas e responsivas.
-* Nas horas vagas, explorando mecânicas complexas de RPG e analisando bons cenários.
-* Movido a boas playlists (de Jazz a vertentes modernas de Trap).
+* **Facção:** Desenvolvendo aplicações de alto impacto com foco em arquitetura limpa.
+* **Atributos:** Especialista em interfaces mobile-first, dinâmicas e responsivas.
+* **Side Quests:** Projetando engines e mecânicas complexas de RPG.
+* **Trilha Sonora:** Movido de Jazz clássico a vertentes pesadas de Trap.
 
 ---
 
-## Como me encontrar
+## 📬 Como me encontrar
 
 <p align="left">
   <a href="mailto:seu-email@provedor.com">
@@ -76,6 +78,6 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 </p>
 
 <p align="right">
-  <sub>@contabilidadecafeh</sub>
+  <sub>@contabilidadecafeh</sub><br />
   <sub>@oliveira.miggy</sub>
 </p>

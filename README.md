@@ -51,10 +51,6 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Gráfico de Atividade do Miguel" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
-</p>
-
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>

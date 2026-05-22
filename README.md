@@ -57,7 +57,7 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
     </td>
     <td valign="middle" align="center" style="padding-left: 30px;">
-      <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-contents/master/images/anime.gif" width="140" alt="Anime GIF" />
+      <img src="https://tenor.com/pt-BR/view/ram-re-zero-gif-8770119029078838434" width="140" alt="Anime GIF" />
     </td>
   </tr>
 </table>

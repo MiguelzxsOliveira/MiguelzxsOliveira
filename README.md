@@ -4,6 +4,21 @@
   <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MiguelzxsOliveira">
+    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=Waving&color=auto&height=120&section=header&text=Re:%20Zero%20Vibe&fontSize=22&theme=rose" width="100%" alt="Header Anime Style" />
+</p>
+
+---
+
 ## Estatísticas do GitHub
 
 <p align="center">
@@ -21,15 +36,6 @@
       </td>
     </tr>
   </table>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MiguelzxsOliveira">
-    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
-  </a>
 </p>
 
 ---
@@ -53,14 +59,14 @@
 
 Sou um desenvolvedor apaixonado por transformar ideias complexas em código limpo, eficiente e com excelente experiência de usuário. Tenho forte afinidade com o desenvolvimento de sistemas robustos, arquitetura de software e soluções que facilitam a automação e processos do dia a dia.
 
-* **Facção:** Desenvolvendo aplicações de alto impacto com foco em arquitetura limpa.
-* **Atributos:** Especialista em interfaces mobile-first, dinâmicas e responsivas.
-* **Side Quests:** Projetando engines e mecânicas complexas de RPG.
-* **Trilha Sonora:** Movido de Jazz clássico a vertentes pesadas de Trap.
+* **Sistemas:** Desenvolvendo aplicações de alto impacto com foco em arquitetura limpa.
+* **Interfaces:** Especialista em layouts mobile-first, dinâmicos e responsivas.
+* **Mecânicas:** Projetando engines e sistemas complexos de backend e RPG.
+* **Áudio:** Movido de Jazz clássico a vertentes pesadas de Trap.
 
 ---
 
-## 📬 Como me encontrar
+## Como me encontrar
 
 <p align="left">
   <a href="mailto:seu-email@provedor.com">
@@ -72,6 +78,6 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 </p>
 
 <p align="right">
-  <sub>@contabilidadecafeh</sub><br />
+  <sub>Layout baseado no estilo de Lugnica.</sub><br />
   <sub>@oliveira.miggy</sub>
 </p>

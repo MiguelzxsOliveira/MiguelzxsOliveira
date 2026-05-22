@@ -51,16 +51,17 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Gráfico de Atividade do Miguel" width="100%" />
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
-    </td>
-    <td valign="middle" align="center" style="padding-left: 30px;">
-      <img src="https://github.com/user-attachments/assets/4a08532c-c13c-4097-a4af-4cab375f57dc" width="140" alt="Anime GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td valign="top" style="padding-right: 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" height="195" />
+      </td>
+      <td valign="top">
+        <img src="https://github.com/user-attachments/assets/4a08532c-c13c-4097-a4af-4cab375f57dc" height="195" style="object-fit: cover; border-radius: 5px;" alt="Ram de Re:Zero" />
+      </td>
+    </tr>
+  </table>
 
 ## Como me encontrar
 

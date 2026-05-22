@@ -1,23 +1,8 @@
 # Miguel Oliveira | Tech Lead & Software Engineer
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a08532c-c13c-4097-a4af-4cab375f57dc" width="180" style="border-radius: 50%; object-fit: cover;" alt="Ram" />
-</p>
-
-<p align="center">
   <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
 </p>
-
-<p align="center">
-  <a href="https://github.com/MiguelzxsOliveira">
-    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
-  </a>
-</p>
-
----
 
 ## Estatísticas do GitHub
 
@@ -36,6 +21,15 @@
       </td>
     </tr>
   </table>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MiguelzxsOliveira">
+    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
+  </a>
 </p>
 
 ---

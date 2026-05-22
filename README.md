@@ -5,22 +5,6 @@
 </p>
 
 
-
-<p align="center">
-  <a href="https://github.com/MiguelzxsOliveira">
-    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/3v0k/anime-gh-shields/main/assets/lines/pink_neon_line.gif" width="100%" alt="Anime Line Divider" />
-</p>
-
----
-
 ## Estatísticas do GitHub
 
 <p align="center">
@@ -51,6 +35,22 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/MiguelzxsOliveira">
+    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3v0k/anime-gh-shields/main/assets/lines/pink_neon_line.gif" width="100%" alt="Anime Line Divider" />
 </p>
 
 ---

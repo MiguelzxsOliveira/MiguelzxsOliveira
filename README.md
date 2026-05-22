@@ -48,14 +48,13 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelzxsOliveira&theme=rose" alt="Estatísticas Detalhadas de Miguel" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelzxsOliveira&theme=rose" alt="Linguagens Mais Utilizadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelzxsOliveira&show_icons=true&theme=rose&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Miguel" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelzxsOliveira&layout=compact&theme=rose&hide_border=true&langs_count=6" alt="Linguagens mais usadas" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
 </p>
-
 ---
 
 ## Como me encontrar

@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/Anime-GIFs/main/ReZero/Ram.gif" width="200" alt="Ram de Re:Zero" />
 </p>
 
----
-
 ## Estatísticas do GitHub
 
 <p align="center">

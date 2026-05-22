@@ -4,34 +4,6 @@
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/Anime-GIFs/main/ReZero/Ram.gif" width="200" alt="Ram de Re:Zero" />
 </p>
 
-<p align="center">
-  <strong>Desenvolvedor de Software | Focado em Soluções Modernas e Escaláveis</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MiguelzxsOliveira">
-    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
-  </a>
-</p>
-
----
-
-## Sobre Mim
-
-> "O futuro é algo que você mesmo constrói." — Inspirado por mundos fantásticos e grandes desafios.
-
-Sou um desenvolvedor apaixonado por transformar ideias complexas em código limpo, eficiente e com excelente experiência de usuário. Tenho forte afinidade com o desenvolvimento de sistemas robustos, arquitetura de software e soluções que facilitam a automação e processos do dia a dia.
-
-* Atualmente focado em arquitetura de software e desenvolvimento de aplicações de alto impacto.
-* Especialista em criar interfaces fluidas, dinâmicas e responsivas.
-* Nas horas vagas, explorando mecânicas complexas de RPG e analisando bons cenários.
-* Movido a boas playlists (de Jazz a vertentes modernas de Trap).
-
----
-
 ## Tecnologias & Ferramentas
 
 <p align="left">
@@ -62,6 +34,37 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
       </td>
     </tr>
   </table>
+
+
+
+
+<p align="center">
+  <strong>Desenvolvedor de Software | Focado em Soluções Modernas e Escaláveis</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MiguelzxsOliveira">
+    <img src="https://img.shields.io/github/followers/MiguelzxsOliveira?label=Seguidores&style=for-the-badge&color=ffb3c1" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/MiguelzxsOliveira?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MiguelzxsOliveira?label=Estrelas&style=for-the-badge&color=ffc6ff" alt="Estrelas Totais" />
+  </a>
+</p>
+
+---
+
+## Sobre Mim
+
+> "O futuro é algo que você mesmo constrói." — Inspirado por mundos fantásticos e grandes desafios.
+
+Sou um desenvolvedor apaixonado por transformar ideias complexas em código limpo, eficiente e com excelente experiência de usuário. Tenho forte afinidade com o desenvolvimento de sistemas robustos, arquitetura de software e soluções que facilitam a automação e processos do dia a dia.
+
+* Atualmente focado em arquitetura de software e desenvolvimento de aplicações de alto impacto.
+* Especialista em criar interfaces fluidas, dinâmicas e responsivas.
+* Nas horas vagas, explorando mecânicas complexas de RPG e analisando bons cenários.
+* Movido a boas playlists (de Jazz a vertentes modernas de Trap).
+
+---
 
 ## Como me encontrar
 

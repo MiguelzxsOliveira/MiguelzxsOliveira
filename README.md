@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=Waving&color=auto&height=120&section=header&text=Re:%20Zero%20Vibe&fontSize=22&theme=rose" width="100%" alt="Header Anime Style" />
+  <img src="https://raw.githubusercontent.com/3v0k/anime-gh-shields/main/assets/lines/pink_neon_line.gif" width="100%" alt="Anime Line Divider" />
 </p>
 
 ---

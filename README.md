@@ -3,7 +3,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="100%">
-      <img src="https://github.com/user-attachments/assets/5c586f69-aa4c-4a54-9a37-d48c109a1d12" width="100%" height="150" style="object-fit: cover; object-position: center 30%; display: block; border-radius: 6px;" alt="Re:Zero Panoramic Banner" />
+      <img src="https://github.com/user-attachments/assets/07bb80d7-005a-4e92-99a9-01f44c16d531" width="100%" height="150" style="object-fit: cover; object-position: center 30%; display: block; border-radius: 6px;" alt="Re:Zero Panoramic Banner" />
     </td>
   </tr>
 </table>

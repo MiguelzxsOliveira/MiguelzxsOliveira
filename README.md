@@ -76,6 +76,6 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 </p>
 
 <p align="right">
-  <sub>@contabilidadecafeh.</sub>
+  <sub>@contabilidadecafeh</sub>
   <sub>@oliveira.miggy</sub>
 </p>

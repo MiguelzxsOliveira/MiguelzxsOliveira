@@ -1,19 +1,8 @@
 # Miguel Oliveira | Tech Lead & Software Engineer - Cafeh Contabilidade
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="100%">
-      <img src="https://github.com/user-attachments/assets/07bb80d7-005a-4e92-99a9-01f44c16d531" style="width: 100%; max-height: 140px; object-fit: cover; object-position: center 30%; display: block; border-radius: 6px;" alt="Re:Zero Panoramic Banner" />
-    </td>
-  </tr>
-</table>
-
-
 <p align="center">
-  <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
+  <img src="https://github.com/user-attachments/assets/07bb80d7-005a-4e92-99a9-01f44c16d531" width="1000" height="150" alt="Re:Zero Panoramic Banner" />
 </p>
-
-
 
 
 

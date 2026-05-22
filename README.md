@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <strong>Desenvolvedor de Software | Focado em Soluções Modernas e Escaláveis</strong>
+  <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 
 ## Sobre Mim
 
-> "O futuro é algo que você mesmo constrói." — Inspirado por mundos fantásticos e grandes desafios.
+> "O futuro é algo que você mesmo constrói." Inspirado por mundos fantásticos e grandes desafios.
 
 Sou um desenvolvedor apaixonado por transformar ideias complexas em código limpo, eficiente e com excelente experiência de usuário. Tenho forte afinidade com o desenvolvimento de sistemas robustos, arquitetura de software e soluções que facilitam a automação e processos do dia a dia.
 
@@ -76,5 +76,6 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 </p>
 
 <p align="right">
-  <sub>Layout customizado com o charme de Lugnica.</sub>
+  <sub>@contabilidadecafeh.</sub>
+  <sub>@oliveira.miggy</sub>
 </p>

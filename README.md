@@ -55,6 +55,17 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
 </p>
 
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/SAWARATSUKI/Anime-GIFs/main/ReZero/Ram_Pixel.gif" width="160" alt="Ram Pixel" />
+    </td>
+  </tr>
+</table>
+
 ## Como me encontrar
 
 <p align="left">

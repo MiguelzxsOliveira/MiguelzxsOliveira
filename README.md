@@ -55,7 +55,6 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
 </p>
----
 
 ## Como me encontrar
 

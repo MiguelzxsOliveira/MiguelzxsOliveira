@@ -53,11 +53,11 @@ Sou um desenvolvedor apaixonado por transformar ideias complexas em código limp
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Streak do GitHub" />
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/SAWARATSUKI/Anime-GIFs/main/ReZero/Ram_Pixel.gif" width="160" alt="Ram Pixel" />
+    <td valign="top" align="center" style="padding-left: 10px;">
+      <img src="https://media.giphy.com/media/13m39vls98wN0c/giphy.gif" width="165" alt="Ram de Re:Zero Quadrada" />
     </td>
   </tr>
 </table>

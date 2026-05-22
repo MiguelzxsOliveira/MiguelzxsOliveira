@@ -1,11 +1,8 @@
 # Miguel Oliveira | Tech Lead & Software Engineer - Cafeh Contabilidade
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07bb80d7-005a-4e92-99a9-01f44c16d531" width="1000" height="150" alt="Re:Zero Panoramic Banner" />
+  <img src="https://github.com/user-attachments/assets/07bb80d7-005a-4e92-99a9-01f44c16d531" width="1000" height="200" alt="Re:Zero Panoramic Banner" />
 </p>
-
-
-## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelzxsOliveira&theme=rose&hide_border=true" alt="Gráfico de Atividade do Miguel" width="100%" />

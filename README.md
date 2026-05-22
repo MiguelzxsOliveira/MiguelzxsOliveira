@@ -3,10 +3,11 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="100%">
-      <img src="https://github.com/user-attachments/assets/4a08532c-c13c-4097-a4af-4cab375f57dc" width="100%" height="150" style="object-fit: cover; object-position: center 30%; display: block; border-radius: 6px;" alt="Re:Zero Panoramic Banner" />
+      <img src="https://github.com/user-attachments/assets/5c586f69-aa4c-4a54-9a37-d48c109a1d12" width="100%" height="150" style="object-fit: cover; object-position: center 30%; display: block; border-radius: 6px;" alt="Re:Zero Panoramic Banner" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <strong>Desenvolvedor de Software | Focado em Automações & IA</strong>
